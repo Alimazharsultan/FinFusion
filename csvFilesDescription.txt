@@ -1,0 +1,41 @@
+Crude Oil Historical Prices
+Entries: 1,256
+Columns: Date, Open, High, Low, Close, Adj Close, Volume
+Description: This dataset tracks the daily market prices of crude oil over the last five years, providing insights into the commodity's price volatility and market trends.
+Dow Jones Industrial Average (DJI) Historical Prices
+Entries: 1,256
+Columns: Date, Open, High, Low, Close, Adj Close, Volume
+Description: This file contains historical price data for the DJI, a stock market index that indicates the stock performance of 30 large, publicly-owned companies trading on the New York Stock Exchange (NYSE) and the NASDAQ.
+Gold Historical Prices
+Entries: 1,256
+Columns: Date, Open, High, Low, Close, Adj Close, Volume
+Description: This dataset provides a historical view of gold prices, capturing the daily fluctuations and providing a record that can be used to analyze market trends for this precious metal.
+Silver Historical Prices
+Entries: 1,256
+Columns: Date, Open, High, Low, Close, Adj Close, Volume
+Description: Similar to the gold data, this file offers a historical perspective on the daily market prices of silver, helping to understand its performance and historical volatility.
+Nasdaq Historical Prices
+Entries: 1,256
+Columns: Date, Open, High, Low, Close, Adj Close, Volume
+Description: The dataset contains daily price information for the Nasdaq, a global electronic marketplace for buying and selling securities, as well as an index indicating the performance of stocks listed on it.
+S&P 500 Historical Prices
+Entries: 1,256
+Columns: Date, Open, High, Low, Close, Adj Close, Volume
+Description: This file captures the historical daily prices of the S&P 500 index, which is widely regarded as the best single gauge of large-cap U.S. equities.
+TSLA Historical Stock Prices
+Entries: 1,257
+Columns: Date, Open, High, Low, Close, Adj Close, Volume
+Description: This dataset provides a day-by-day stock price history for Tesla, Inc., reflecting the company's stock market performance over the past five years.
+TSLA Cash Flow
+Entries: 57
+Columns: Breakdown, ttm, 12/30/2022, 12/30/2021, 12/30/2020, 12/30/2019
+Description: This file outlines Tesla's cash flow statements, detailing the cash generated and spent over a specific period, which is a key indicator of the company's financial health.
+TSLA Balance Sheet
+Entries: 78
+Columns: Breakdown, 12/30/2022, 12/30/2021, 12/30/2020, 12/30/2019
+Description: The balance sheet data for Tesla includes detailed information about the company's assets, liabilities, and shareholders' equity, providing a snapshot of its financial condition at the end of each fiscal year.
+TSLA Income Statement
+Entries: 33
+Columns: Breakdown, ttm, 12/30/2022, 12/30/2021, 12/30/2020, 12/30/2019
+Description: This dataset presents Tesla's income statements, summarizing the company's revenues, expenses, and profits or losses over time, which is essential for evaluating the company's profitability.
+These files collectively offer a wealth of financial data, encompassing broad market trends in commodities and indices, as well as in-depth corporate financial details for Tesla, Inc.
